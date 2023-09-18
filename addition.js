@@ -1,1 +1,1 @@
-console.log("ini addition");
+console.log("ini additions");
